@@ -1,5 +1,3 @@
-# Jok3rWasHere.github.io
-Dj Joiner
 <!DOCTYPE html>
 <html lang="es">
 <head>
